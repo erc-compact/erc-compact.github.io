@@ -4,3 +4,35 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+  "MNRAS":
+    url: https://academic.oup.com/mnras
+    color: "#000000"
+
+  "ApJ":
+    url: https://iopscience.iop.org/journal/0004-637X
+    color: "#000000"
+
+  "ApJL":
+    url: https://iopscience.iop.org/journal/2041-8205
+    color: "#000000"
+  
+  "ApJS":
+    url: https://iopscience.iop.org/journal/0067-0049
+    color: "#000000"
+
+  "Science": 
+    url: https://www.sciencemag.org/
+    color: "#000000"
+
+  "Nature":
+    url: https://www.nature.com/nature/
+    color: "#000000"
+
+  "NatureAstronomy":
+    url: https://www.nature.com/natastron/
+    color: "#000000"
+
+  "A&A":
+    url: https://www.aanda.org/
+    color: "#000000"

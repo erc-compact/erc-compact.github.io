@@ -1,35 +1,7 @@
-"Delshad":
-  - firstname: [ "Benyamin", "B.", "Benyamin Delshad" ]
-    url: /members/delshad
+"Venkatraman_Krishnan":
+  - firstname: [ "Venkatraman Krishnan", "V.", "Vivek" ]
+    url: /members/venkatraman_krishnan
 
-"Eskandani":
-  - firstname: [ "Nafise", "N.", "Nafise Eskandani" ]
-    url: /members/eskandani
-
-"Köhler":
-  - firstname: [ "Mirko", "M.", "Mirko Köhler" ]
-    url: /members/koehler
-
-"Oak":
-  - firstname: [ "Aditya", "A.", "Aditya Oak" ]
-    url: /members/oak
-
-"Salvaneschi":
-  - firstname: ["Guido", "G.", "Guido Salvaneschi"]
-    url: /members/salvaneschi
-
-"Sokolowski":
-  - firstname: [ "Daniel", "D.", "Daniel Sokolowski" ]
-    url: /members/sokolowski
-
-"Spielmann":
-  - firstname: [ "David", "D.", "David Spielmann" ]
-    url: /members/spielmann
-
-"Weisenburger":
-  - firstname: [ "Pascal", "P.", "Pascal Weisenburger" ]
-    url: /members/weisenburger
-
-"Zakhour":
-  - firstname: [ "George", "g.", "George Zakhour" ]
-    url: /members/zakhour
+"Balakrishnan":
+  - firstname: [ "Balakrishnan", "V.", "Vishnu Balakrishnan" ]
+    url: /members/balakrishnan

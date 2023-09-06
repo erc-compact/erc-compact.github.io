@@ -10,10 +10,10 @@ profile:
   align: right
   image: Fig2.jpg
   email: vkrishnan@mpifr-bonn.mpg.de
-  phone: +49(0)228-525-505
+  phone: +49(0)228-525-312
   image_circular: false # crops the image to make it circular
   address: >
-    E1.03,
+    E1.17,
     Max Planck Institute for Radio Astronomy,
     Auf dem hügel 69, 53121 Bonn 
 

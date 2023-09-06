@@ -11,7 +11,7 @@ lastname: Venkatraman Krishnan
 publications: 'author^=*Venkatraman Krishnan'
 
 teaser: >
-   Scientific staff at the MPIfR and the project lead of COMPACT.  Research interests: Neutron stars, tests of gravity, signal processing and high performance computin
+   Scientific staff at the MPIfR and the project lead of COMPACT.  Research interests: Neutron stars, tests of gravity, signal processing and high performance computing.
 
 profile:
     name: Dr. Vivek Venkatraman Krishnan
@@ -29,4 +29,4 @@ profile:
 ---
 
 I am a group leader at the Max Planck Institute for Radio Astronomy and lead this ERC project. Previously, I was a postdoc at the same institute where, among other things, I co-lead the Relativisitc Binary working group of the MeerTime project. I obtained my PhD in Astrophysics at the centre for Astrophysics and Supercomputing (CAS) at Swinburne University of Technology in Australia. 
-    My research interests include neutron stars, tests of gravity, signal processing and high performance computing.
+    My research interests include neutron stars, binary systems, tests of gravity, signal processing and high performance computing.

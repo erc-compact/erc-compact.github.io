@@ -2,10 +2,14 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: COMPACT member repositories. 
 nav: true
 nav_rank: 4
 ---
+
+## Main GitHub Organisation
+
+All COMPACT code goes <a href="https://github.com/erc-compact"> here </a>
 
 ## GitHub users
 

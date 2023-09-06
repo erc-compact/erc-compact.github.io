@@ -13,7 +13,7 @@ nav_rank: 3
 <p></p>
 <p> 🌌 Are you ready to dive into the mysteries of the universe and push the boundaries of physics and astronomy? We're thrilled to introduce you to the <b>PhD positions </b> available with the COMPACT project! 🌟</p>
 
-<p>Imagine being part of a groundbreaking ERC starting grant project hosted at the MPIfR's Fundamental Physics in Radio Astronomy group. This project is all about uncovering the secrets of fast-spinning pulsars and compact binary systems, which have remained hidden due to their computational complexity.</p>
+<p>Imagine being part of a groundbreaking ERC starting grant project hosted at the MPIfR's Fundamental Physics in Radio Astronomy group. This project is all about uncovering the secrets of fast-spinning pulsars and compact binary systems, which are some of the hardest to find pulsars but have the potential to be some of the most useful tools to understand gravity.</p>
 
 <p>🔍 But that's not all! These discoveries could unlock the secrets of gravity, reveal the internal structure of neutron stars, and even complement gravitational wave experiments. </p>
 

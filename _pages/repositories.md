@@ -9,7 +9,7 @@ nav_rank: 4
 
 ## Main GitHub Organisation
 
-All COMPACT code goes <a href="https://github.com/erc-compact"> here </a>
+All COMPACT code goes <a href="https://github.com/erc-compact">here</a>.
 
 ## GitHub users
 

@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Watch this space for cool project information!
-nav: true
+nav: false
 nav_rank: 2
 display_categories: [Core-COMPACT, Other related]
 horizontal: false

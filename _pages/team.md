@@ -52,7 +52,11 @@ nav_rank: 1
                 </div>
             </div>
         </div>
-    </div>
+    </div> 
 </p>
+
     {% endfor %}
 {% endfor %}
+<div>
+        <h4> Other collaborators will be added soon... </h4>
+</div>   

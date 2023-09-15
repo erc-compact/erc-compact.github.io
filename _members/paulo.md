@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Collaborators
-group_rank: 2
+group_rank: 3
 team_frontpage: true
 
 title: Dr. Paulo Freire
@@ -24,6 +24,7 @@ profile:
     address: >
         Max Planck Institute for Radio Astronomy <br />
         Auf dem Hügel 69<br />
-        53121 Bonn
+        53121 Bonn <br />
+        Germany
 ---
 

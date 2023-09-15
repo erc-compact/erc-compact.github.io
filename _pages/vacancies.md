@@ -29,7 +29,7 @@ nav_rank: 3
 
 <p>🚀 The COMPACT-related PhD projects you don't want to miss are MK03 and MK01! 🌌</p>
 
-<p>📆 Mark your calendars! The formal call for applications opens on September 15. 🗓️</p>
+<p>📆 Mark your calendars! The formal application deadline via the IMPRS school is November 1, 2023. 🗓️</p>
 
 <p> <b> If you're passionate about COMPACT and want to express your interest, we've got a form just for you: <a href="https://forms.gle/SbBB22NisB8sLbL28"> Expression of Interest Form</a> </b></p>
 

@@ -25,7 +25,8 @@ profile:
     address: >
         Max Planck Institute for Radio Astronomy <br />
         Auf dem Hügel 69<br />
-        53121 Bonn
+        53121 Bonn <br />
+        Germany
 ---
 
 I am a postdoctoral researcher at the COMPACT group. I work on novel pulsar search techniques for pulsar discoveries, with a significant emphasis on using various Machine learning techniques for different stages of the pulsar detection pipeline.

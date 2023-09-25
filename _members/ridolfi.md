@@ -7,7 +7,7 @@ team_frontpage: true
 
 title: Dr. Alessandro Ridolfi
 description: 
-lastname: Possenti
+lastname: Ridolfi
 publications: 'author^=*Ridolfi'
 
 teaser: >

@@ -13,9 +13,9 @@ publications: 'author^=*Ridolfi'
 teaser: >
   INAF Astrophysics Fellow at INAF-Osservatorio Astronomico di Cagliari
 profile:
-    name: Dr. Andrea Possenti
+    name: Dr. Alessandro Ridolfi
     align: right
-    image: Andrea.jpeg
+    image: ridolfi.jpg
     role: Scientific Staff
     email: alessandro.ridolfi@inaf.it
     github: https://github.com/alex88ridolfi

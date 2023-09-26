@@ -16,7 +16,7 @@ profile:
     name: Dr. Andrea Possenti
     align: right
     image: Andrea.jpeg
-    role: Scientific Staff
+    role: Senior researcher
     email: andrea.possenti@inaf.it
     github: 
     orcid: 0000-0001-5902-3731

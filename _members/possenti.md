@@ -24,7 +24,6 @@ profile:
     address: >
         Via della Scienza 5 <br />
         I-09047 Selargius (Cagliari)<br />
-        Italy <br />
-        Germany
+        Italy 
 ---
 

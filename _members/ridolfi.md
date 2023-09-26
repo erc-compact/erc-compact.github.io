@@ -18,13 +18,13 @@ profile:
     image: ridolfi.jpg
     role: Scientific Staff
     email: alessandro.ridolfi@inaf.it
-    github: https://github.com/alex88ridolfi
+    github: alex88ridolfi
     orcid: 0000-0001-6762-2638
-    website:  http://alex88ridolfi.altervista.org
+    website: http://alex88ridolfi.altervista.org
     address: >
         Via della Scienza 5 <br />
         I-09047 Selargius (Cagliari)<br />
-        Italy <br />
-        Germany
+        Italy
+        
 ---
 

@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Collaborators
-group_rank: 3
+group_rank: 4
 team_frontpage: true
 
 title: Prof. Matthew Bailes

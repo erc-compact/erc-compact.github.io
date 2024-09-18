@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-01 07:59:00-0400
+date: 2024-08-24 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Two PhD positions available with compact. More information <a href="/vacancies/"> here. </a>
+One postdoctoral research position available with compact. More information <a href="https://jobs.b-ite.com/jobposting/b50e63772ad01b1df60dc962f4f560a0901c33a40"> here. </a>

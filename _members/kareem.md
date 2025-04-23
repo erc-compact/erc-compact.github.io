@@ -8,7 +8,7 @@ team_frontpage: TRUE
 title: Mr. Fazal Kareem
 description: Profile of Mr. Fazal Kareem
 lastname: Kareem
-publications: 'author^=*Kareem'
+publications: 'author^=*FKareem'
 
 teaser: >
 
@@ -19,9 +19,9 @@ profile:
     align: right
     image: Fazal.jpg
     role: PhD Student
-    email: rKareem@mpifr-bonn.mpg.de
-    github: FazalKareem
-    orcid: 0009-0002-0243-8199
+    email: fkareem@mpifr-bonn.mpg.de
+    github: wintervolcano
+    orcid: 0000-0003-2444-838X
     address: >
         Max Planck Institute for Radio Astronomy <br />
         Auf dem Hügel 69<br />

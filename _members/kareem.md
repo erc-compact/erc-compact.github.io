@@ -22,6 +22,7 @@ profile:
     email: fkareem@mpifr-bonn.mpg.de
     github: wintervolcano
     orcid: 0000-0003-2444-838X
+    twitter: fazkareem12
     address: >
         Max Planck Institute for Radio Astronomy <br />
         Auf dem Hügel 69<br />

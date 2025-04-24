@@ -17,7 +17,7 @@ teaser: >
 profile:
     name: Mr. Fazal Kareem
     align: right
-    image: fazal2.jpg
+    image: fazal2.jpeg
     role: PhD Student
     email: fkareem@mpifr-bonn.mpg.de
     github: wintervolcano

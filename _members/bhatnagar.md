@@ -17,7 +17,7 @@ teaser: >
 profile:
     name: Ms. Devika Bhatnagar
     align: right
-    image: devika2.jpg
+    image: devika2.jpeg
     role: PhD Student
     github: https://github.com/devikab11
     email: dbhatnagar@mpifr-bonn.mpg.de 

@@ -15,7 +15,7 @@ teaser: >
 profile:
     name: Dr. Marisa Geyer
     align: right
-    image: MGeyer.jpg
+    image: MGeyer.JPG
     role: Lecturer
     email: marisa.geyer@uct.ac.za
     orcid: 0000-0002-2822-1919

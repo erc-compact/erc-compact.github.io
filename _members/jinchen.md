@@ -28,4 +28,4 @@ profile:
         Germany
 ---
 
-I am a postdoctoral researcher at the COMPACT group. I work on novel pulsar search techniques for pulsar discoveries, with a significant emphasis on using various Machine learning techniques for different stages of the pulsar detection pipeline.
+I am a postdoctoral researcher at the COMPACT group. I search for pulsars in globular clusters using radio interferometers such as MeerKAT.

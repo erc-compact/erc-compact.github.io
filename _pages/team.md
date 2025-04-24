@@ -17,7 +17,8 @@ nav_rank: 1
     <div class="card {% if member.inline == false %}hoverable{% endif %}">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="card-img img-fluid" alt="{{ member.profile.name }}" />
+                <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="card-img img-fluid" alt="{{ member.profile.name }}" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; max-height: 320px; border-radius: 8px;"
+                />
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">

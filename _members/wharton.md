@@ -11,7 +11,7 @@ lastname: Wharton
 publications: 'author^=*Wharton'
 
 teaser: >
-    Postdoctoral researcher in the COMPACT group.  Research interests: radio interferometric searches for pulsars, magnetars, and Fast Radio Bursts
+    Postdoctoral researcher in the COMPACT group. Research interests: radio interferometric searches for pulsars, magnetars, and Fast Radio Bursts
 profile:
     name: Dr. Robert Wharton
     align: right
@@ -28,4 +28,4 @@ profile:
         Germany
 ---
 
-I am a postdoctoral researcher at the COMPACT group. Postdoctoral researcher in the COMPACT group.  Research interests: radio interferometric searches for pulsars, magnetars, and Fast Radio Bursts; Galactic center pulsars.
+Postdoctoral researcher in the COMPACT group. Research interests: radio interferometric searches for pulsars, magnetars, and Fast Radio Bursts; Galactic center pulsars.

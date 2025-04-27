@@ -59,5 +59,13 @@ nav_rank: 1
     {% endfor %}
 {% endfor %}
 <div>
-        <h4> Other collaborators will be added soon... </h4>
+    <h4> Other collaborators will be added soon... </h4>
 </div>   
+
+<!-- Banner at the bottom -->
+<div style="position: relative; text-align: center; margin-top: 2rem;">
+    <img src="{{ '/assets/img/Team.jpeg' | relative_url }}" alt="Group Photo" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 10px;" />
+    <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.5); padding: 1rem 2rem; border-radius: 10px;">
+        Meet Our Team
+    </h1>
+</div>

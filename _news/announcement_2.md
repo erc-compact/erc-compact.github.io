@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Vishnu Balakrishnan joins COMPACT as a postdoctoral researcher!
+title: Vishnu Balakrishnan joins COMPACT as a postdoctoral Researcher!
 date: 2023-05-01 09:00:00
 inline: false
 related_posts: false
 ---
 
-Vishnu Balakrishnan joins COMPACT as a postdoctoral researcher!
+Vishnu Balakrishnan joins COMPACT as a postdoctoral Researcher!
 ***
 
 

@@ -65,5 +65,5 @@ nav_rank: 1
 <!-- Banner at the bottom -->
 <div style="position: relative; text-align: center; margin-top: 2rem;">
     <img src="{{ '/assets/img/Team.jpeg' | relative_url }}" alt="Group Photo" style="width: 100%; height: auto; border-radius: 10px;" />
-    <h1> The COMPACT group at MPIfR </h1>
+    <h2> The COMPACT Team at MPIfR </h2>
 </div>

@@ -64,8 +64,6 @@ nav_rank: 1
 
 <!-- Banner at the bottom -->
 <div style="position: relative; text-align: center; margin-top: 2rem;">
-    <img src="{{ '/assets/img/Team.jpeg' | relative_url }}" alt="Group Photo" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 10px;" />
-    <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.5); padding: 1rem 2rem; border-radius: 10px;">
-        Meet Our Team
+    <img src="{{ '/assets/img/Team.jpeg' | relative_url }}" alt="Group Photo" style="width: 100%; height: auto; border-radius: 10px;" />
     </h1>
 </div>

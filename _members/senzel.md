@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: PhD Student
+group: PhD Students
 group_rank: 3
 team_frontpage: TRUE
 

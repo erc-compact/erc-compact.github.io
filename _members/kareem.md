@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: PhD Student
+group: PhD Students
 group_rank: 3
 team_frontpage: TRUE
 
@@ -23,6 +23,7 @@ profile:
     github: wintervolcano
     orcid: 0000-0003-2444-838X
     twitter: fazkareem12
+    website: https://fazalkareem.webflow.io/
     address: >
         Max Planck Institute for Radio Astronomy <br />
         Auf dem Hügel 69<br />

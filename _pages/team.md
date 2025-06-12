@@ -7,6 +7,12 @@ nav: true
 nav_rank: 1
 ---
 
+<!-- Banner at the top -->
+<div style="position: relative; text-align: center; margin-top: 2rem;">
+    <img src="{{ '/assets/img/Team.jpeg' | relative_url }}" alt="Group Photo" style="width: 100%; height: auto; border-radius: 10px;" />
+    <h2> The COMPACT Team at MPIfR </h2>
+</div>
+
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
 {% for group in groups %}
 ## {{ group }}
@@ -62,8 +68,3 @@ nav_rank: 1
     <h4> Other collaborators will be added soon... </h4>
 </div>   
 
-<!-- Banner at the bottom -->
-<div style="position: relative; text-align: center; margin-top: 2rem;">
-    <img src="{{ '/assets/img/Team.jpeg' | relative_url }}" alt="Group Photo" style="width: 100%; height: auto; border-radius: 10px;" />
-    <h2> The COMPACT Team at MPIfR </h2>
-</div>

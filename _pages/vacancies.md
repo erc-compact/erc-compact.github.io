@@ -10,9 +10,9 @@ nav_rank: 3
 <div class="vacancies">
 
 
-<p>We have opening for one Postdoctoral position within the group. Please check <a href="https://jobs.b-ite.com/jobposting/b50e63772ad01b1df60dc962f4f560a0901c33a40"> here </a> for more details.  </p>
+<!-- <p>We have opening for one Postdoctoral position within the group. Please check <a href="https://jobs.b-ite.com/jobposting/b50e63772ad01b1df60dc962f4f560a0901c33a40"> here </a> for more details.  </p> -->
 
-If you would like to collaborate on the project as an external member, please contact the PI. 
-
+<!-- If you would like to collaborate on the project as an external member, please contact the PI.  -->
+We are not currently hiring, but if you believe that you can positively contribute to the group, please feel free to contact us. We are always open to new ideas and collaborations.
 
 </div>

@@ -8,7 +8,7 @@ team_frontpage: TRUE
 title: Mr. Fazal Kareem
 description: Profile of Mr. Fazal Kareem
 lastname: Kareem
-publications: 'author^=*FKareem'
+publications: 'author^=*Kareem'
 
 teaser: >
 

@@ -7,10 +7,8 @@ nav: true
 nav_rank: 6
 ---
 
-Below is a running list of discoveries from COMPACT.
-
 {% assign rows = site.discoveries | sort: "discovered" | reverse %}
-<table>
+<table class="table table-bordered">
   <thead>
     <tr>
       <th>JNAME</th>
@@ -35,4 +33,5 @@ Below is a running list of discoveries from COMPACT.
   </tbody>
 </table>
 
-All globular cluster discoveries are here: [GC Pulsars](https://www3.mpifr-bonn.mpg.de/staff/pfreire/GCpsr.html).
+
+All globular cluster discoveries : [GC Pulsars](https://www3.mpifr-bonn.mpg.de/staff/pfreire/GCpsr.html).

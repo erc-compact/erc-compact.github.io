@@ -177,6 +177,9 @@ collections:
   members:
     output: true
     permalink: /members/:path/
+  discoveries:
+    output: true
+    permalink: /discoveries/:name/
 
 announcements:
   enabled: true
@@ -239,6 +242,11 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: ""
+      type: discoveries
+    values:
+      layout: discovery
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier

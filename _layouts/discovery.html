@@ -1,0 +1,46 @@
+---
+{% assign d = page %}
+<article class="discovery">
+    <h1>{{ d.jname }}</h1>
+    <p><a href="{{ '/discoveries/' | relative_url }}">← Back to all discoveries</a></p>
+
+    <table>
+        <tbody>
+            <tr>
+                <th>JNAME</th>
+                <td>{{ d.jname }}</td>
+            </tr>
+            <tr>
+                <th>Cluster</th>
+                <td>{{ d.cluster }}</td>
+            </tr>
+            <tr>
+                <th>P0 (ms)</th>
+                <td>{{ d.p0_ms }}</td>
+            </tr>
+            <tr>
+                <th>DM (pc cm<sup>-3</sup>)</th>
+                <td>{{ d.dm }}</td>
+            </tr>
+            <tr>
+                <th>Binary?</th>
+                <td>{{ d.binary }}</td>
+            </tr>
+            <tr>
+                <th>Date of Discovery</th>
+                <td>{{ d.discovered | date: "%d/%m/%Y" }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    {% if d.image %}
+    <figure>
+        <img src="{{ d.image | relative_url }}" alt="{{ d.jname }} discovery plot" />
+        {% if d.image_caption %}
+        <figcaption>{{ d.image_caption }}</figcaption>
+        {% endif %}
+    </figure>
+    {% endif %}
+
+    {{ content }}
+</article>

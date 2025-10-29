@@ -8,7 +8,7 @@ nav_rank: 6
 ---
 
 {% assign rows = site.discoveries | sort: "discovered" | reverse %}
-<table class="table table-bordered">
+<table class="table table-sm table-bordered">
   <thead>
     <tr>
       <th>JNAME</th>

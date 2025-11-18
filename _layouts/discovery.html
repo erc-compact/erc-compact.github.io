@@ -37,7 +37,7 @@ layout: page
     {% if d.image %}
     <figure>
         <img src="{{ d.image | relative_url }}" alt="{{ d.jname }} discovery plot">
-        {% if d.image_caption %}<figcaption>{{ d.image_caption }}</figcaption>{% endif %}
+        {% if d.image_caption %}<figcaption class="text-center">{{ d.image_caption }}</figcaption>{% endif %}
     </figure>
     {% endif %}
 

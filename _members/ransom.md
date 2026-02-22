@@ -15,7 +15,7 @@ teaser: >
 profile:
     name: Prof. Scott Ransom
     align: right
-    image: ransom.jpg
+    image: ransom.png
     role: Scientific Staff
     email: sransom@nrao.edu
     orcid: 0000-0001-5799-9714

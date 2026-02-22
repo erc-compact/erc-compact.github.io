@@ -23,7 +23,7 @@ profile:
     github: wintervolcano
     orcid: 0000-0003-2444-838X
     twitter: fazkareem12
-    website: https://fazalkareem.webflow.io/
+    website: https://www.fazalkareem.com/
     address: >
         Max Planck Institute for Radio Astronomy <br />
         Auf dem Hügel 69<br />

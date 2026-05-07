@@ -1,0 +1,28 @@
+# Gallery photos — add one entry per image.
+#
+# Required fields:
+#   file:     filename inside assets/img/gallery/ (e.g. team-2024.jpg)
+#   category: team | events
+#
+# Optional fields:
+#   caption:  short description shown below the photo (omit to show nothing)
+#   alt:      accessibility text (falls back to caption, then filename)
+- file: poster_bonnNS2025.png
+  category: team
+  caption: Poster presentation at Bonn NS 2025
+  alt: Poster presentation at Bonn NS 2025
+
+- file: group_meeting.png
+  category: team
+  caption: Group Meetings at MPIfR
+  alt: Group Meetings at MPIfR
+
+- file: farewell.png
+  category: team
+  caption: Farewell dinner for Vishnu
+  alt: Farewell dinner for Vishnu
+
+- file:     Team.jpeg
+  category: team
+  caption:  The COMPACT team
+  alt:      The COMPACT team group photo

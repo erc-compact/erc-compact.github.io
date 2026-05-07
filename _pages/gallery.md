@@ -23,7 +23,7 @@ nav_rank: 7
 <!-- Masonry gallery grid -->
 <div class="grid">
   {%- for photo in photos %}
-  {%- assign src_path = photo.file | prepend: "assets/img/gallery/" %}
+  {%- assign src_path = photo.file | prepend: "/" | prepend: photo.category | prepend: "assets/img/gallery/" %}
   {%- assign alt_text = photo.alt | default: photo.caption | default: photo.file %}
   <div class="grid-item gallery-item" data-category="{{ photo.category }}">
     <figure>

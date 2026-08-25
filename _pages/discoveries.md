@@ -18,6 +18,7 @@ nav_rank: 6
       <th>DM (pc cm<sup>-3</sup>)</th>
       <th>Binary?</th>
       <th>Date of Discovery</th>
+      <th>Data</th>
     </tr>
   </thead>
   <tbody>
@@ -29,6 +30,7 @@ nav_rank: 6
       <td>{{ d.dm | round: 3 }}</td>
       <td>{{ d.binary }}</td>
       <td>{{ d.discovered | date: "%d/%m/%Y" }}</td>
+      <td>{{ d.data | join: ", " }}</td>
     </tr>
   {% endfor %}
   </tbody>
